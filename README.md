@@ -34,4 +34,4 @@ All scripts are built around the following files and file structure. Files inclu
       /R_Analysis
         /US_Fed_Employ_98_17_index.R *
 
-All the figures listed above are produced by the script itself; they are included here for reference and for visitors unfamilar/unable to use R but who are still curious about the claims in Firckel and Rea (2020). Note that the script is structure such that additional years of FedScope data from OPM can easily be added as they come available. 
+All the figures listed above are produced by the script itself; they are included here for reference and for visitors unfamilar/unable to use R but who are still curious about the claims in Frickel and Rea (2020). Note that the script is structure such that additional years of FedScope data from OPM can easily be added as they come available. 
