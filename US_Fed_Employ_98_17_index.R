@@ -4,17 +4,6 @@
 # Chris Rea
 # Last Modified: May 26, 2019
 
-# Starting notes: components of this script are VERY slow (e.g.
-# 15-20 minutes to run one line of code on a 2012 MacBook Pro 
-# with 16GB of RAM and a 1TB SSD)--particularly creating pretty
-# labels for the data used for alluvial plots of agency staff
-# composition (e.g. see line ~712). I have run the code up
-# through Mid-point 2 and saved the data locally; if computing
-# power is a limit you face, contact the author of this script
-# and he can provide you with this saved .Rdata file where you
-# can work with data after the most computationally-intensive
-# bits are finished.
-
 ###### INSTALL PACKAGES ######
 my_packages <- c("tidyverse","broom","skimr","sp",
                  "reshape2","data.table","ggalluvial",
