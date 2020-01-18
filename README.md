@@ -1,5 +1,5 @@
 # ESTS_Trump_Anti_Science
-Code and raw data used to generate Figure 1 and conduct supporting analyses (produce 10 other related figures) discussed in Frickel and Rea (2020), "Drought, Hurricane, or Wildfire? Assessing the Trump Administration’s Anti-Science Disaster," Engaging Science, Technology, and Society(6), pp. 66-75.
+Code and supporting materials used to generate Figure 1 and conduct supporting analyses (produce 10 other related figures) discussed in Frickel and Rea (2020), "Drought, Hurricane, or Wildfire? Assessing the Trump Administration’s Anti-Science Disaster," Engaging Science, Technology, and Society(6), pp. 66-75.
 
 See the paper here: https://estsjournal.org/index.php/ests/article/view/297
 See the journal here: https://estsjournal.org/index.php/ests/index
