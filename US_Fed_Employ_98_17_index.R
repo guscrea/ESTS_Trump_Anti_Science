@@ -21,7 +21,7 @@ install.packages(my_packages)
 lapply(my_packages, require, character.only = TRUE)
 
 ###### SET WD ######
-setwd("/Users/rea.115/Dropbox/Professional/Research/_Basic_Data/US_Public_Employment")
+setwd("your_working_directory")
 
 ###### BUILD YEAR-WISE AGY CNTS ######
 # function make dataframe by agency-year
