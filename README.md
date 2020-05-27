@@ -9,7 +9,7 @@ All data is publicly available from the U.S. Office of Personnel Mangement (OPM)
 
 All visualization and analysis completed in R.
 
-All the figures listed below are produced by the script itself; they are included in the Git repository for reference and for visitors unfamilar/unable to use R but who are still curious about the claims in Frickel and Rea (2020). Note also that the script is structured such that additional years of FedScope data from OPM (e.g. "employment cubes" from September 2019 and 2020) can easily be added as they come available.
+All the figures listed below are produced by the script itself; they are included in the Git repository for reference and for visitors unfamiliar/unable to use R but who are still curious about the claims in Frickel and Rea (2020). Note also that the script is structured such that additional years of FedScope data from OPM (e.g. "employment cubes" from September 2019 and 2020) can easily be added as they come available.
 
 See additional notes and comments on the data and analysis in the script itself.
 
